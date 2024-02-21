@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+setup.py
+ops_test.egg-info/PKG-INFO
+ops_test.egg-info/SOURCES.txt
+ops_test.egg-info/dependency_links.txt
+ops_test.egg-info/requires.txt
+ops_test.egg-info/top_level.txt
+src/__init__.py
+src/model.py
+src/predict.py
+src/utils.py
+tests/__init__.py
+tests/test_model.py
