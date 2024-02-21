@@ -27,7 +27,7 @@ Description of project.
 
 ## Usage
 
-## NOTE: Use the commands from the root folder only i.e "Packaging"
+## NOTE: Use the commands from the root folder only i.e "probable-guacamole"
 
 1. To train and save the model, run the following command:
 
