@@ -15,6 +15,7 @@ Description of project.
 3. Create a new conda environment:
 
     conda create -n new_env python=3.8
+
     conda activate new_env
 
 3. Install the dependencies:
