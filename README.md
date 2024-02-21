@@ -10,7 +10,7 @@ Description of project.
 
 2. Navigate to the project directory:
 
-    cd ops_test
+    cd probable-guacamole
 
 3. Create a new conda environment:
 
