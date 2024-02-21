@@ -22,6 +22,8 @@ Description of project.
 
     pip install -r requirements.txt
 
+    pip install poetry
+
 5. Install the package:
 
     pip install .
