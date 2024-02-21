@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "ops_test"
+version = "0.1"
+description = ""  # package description
+authors = ["Siddharth <asiddharth_csm206601@mgit.ac.in>"]  
+
+[tool.poetry.dependencies]
+python = "^3.8"  # Specify your Python version
+scikit-learn = "0.24.2"
+tensorflow = "2.5.0"
+joblib = "1.0.1"
+matplotlib = "3.4.2"
+
+[tool.poetry.dev-dependencies]
+# Add development dependencies here
+
+[[tool.poetry.packages]]
+include = "src/*"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
