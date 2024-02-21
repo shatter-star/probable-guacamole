@@ -1,1 +1,2 @@
-include models/model.joblib
+include models/model.h5
+include README.md
