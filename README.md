@@ -4,6 +4,14 @@ Description of project.
 
 ## Installation
 
+1. Install virtualenv
+
+    python3 -m pip install virtualenv
+
+    virtualenv --version
+
+    virtualenv new_env
+
 1. Clone this repository:
     
     git clone https://github.com/shatter-star/probable-guacamole.git
@@ -11,12 +19,6 @@ Description of project.
 2. Navigate to the project directory:
 
     cd probable-guacamole
-
-3. Create a new conda environment:
-
-    conda create -n new_env python=3.8
-
-    conda activate new_env
 
 3. Install the dependencies:
 
